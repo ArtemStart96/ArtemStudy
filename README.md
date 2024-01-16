@@ -1,2 +1,2 @@
-# ArtemStudy
-First homework
+# Artem Study
+First homework !
